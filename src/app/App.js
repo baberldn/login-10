@@ -54,7 +54,7 @@ const App = () => {
             <div className="w-[200px] h-[1px] bg-black"></div>
           </div>
 
-          <div className="mt-4 text-lg font-semibold text-center text-[#00000066] ml-40 text-2xl">
+          <div className="mt-4 text-lg font-semibold text-center text-[#00000066] ml-48 text-2xl">
             use email and password
           </div>
 
